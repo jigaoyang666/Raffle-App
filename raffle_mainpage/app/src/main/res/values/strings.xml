@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">raffle_mainpage</string>
+    <string name="rafflename">Please enter a name</string>
+    <string name="description">Add a description</string>
+    <string name="numbers">Number of tickets</string>
+    <string name="limitation">Limitation of per person</string>
+    <string name="price">Enter a price</string>
+    <string-array name="name">
+        <item>Branden</item>
+        <item>Dahoo</item>
+    </string-array>
+</resources>
